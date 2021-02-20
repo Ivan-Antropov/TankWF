@@ -1,0 +1,29 @@
+c:\users\иван\documents\visual studio 2015\Projects\TankWF\TankWF\bin\Debug\TankWF.exe.config
+c:\users\иван\documents\visual studio 2015\Projects\TankWF\TankWF\bin\Debug\TankWF.exe
+c:\users\иван\documents\visual studio 2015\Projects\TankWF\TankWF\bin\Debug\TankWF.pdb
+c:\users\иван\documents\visual studio 2015\Projects\TankWF\TankWF\obj\Debug\TankWF.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2015\Projects\TankWF\TankWF\obj\Debug\TankWF.Form1.resources
+c:\users\иван\documents\visual studio 2015\Projects\TankWF\TankWF\obj\Debug\TankWF.Properties.Resources.resources
+c:\users\иван\documents\visual studio 2015\Projects\TankWF\TankWF\obj\Debug\TankWF.csproj.GenerateResource.Cache
+c:\users\иван\documents\visual studio 2015\Projects\TankWF\TankWF\obj\Debug\TankWF.exe
+c:\users\иван\documents\visual studio 2015\Projects\TankWF\TankWF\obj\Debug\TankWF.pdb
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\bin\Debug\TankWF.exe.config
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\bin\Debug\TankWF.exe
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\bin\Debug\TankWF.pdb
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\obj\Debug\TankWF.csprojAssemblyReference.cache
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\obj\Debug\TankWF.Form1.resources
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\obj\Debug\TankWF.Properties.Resources.resources
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\obj\Debug\TankWF.csproj.GenerateResource.cache
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\obj\Debug\TankWF.csproj.CoreCompileInputs.cache
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\obj\Debug\TankWF.exe
+C:\Users\monik\Documents\Visual Studio 2019\Projects\TankWF\TankWF\obj\Debug\TankWF.pdb
+C:\Users\monik\source\repos\TankWF\TankWF\bin\Debug\TankWF.exe.config
+C:\Users\monik\source\repos\TankWF\TankWF\bin\Debug\TankWF.exe
+C:\Users\monik\source\repos\TankWF\TankWF\bin\Debug\TankWF.pdb
+C:\Users\monik\source\repos\TankWF\TankWF\obj\Debug\TankWF.csprojAssemblyReference.cache
+C:\Users\monik\source\repos\TankWF\TankWF\obj\Debug\TankWF.Form1.resources
+C:\Users\monik\source\repos\TankWF\TankWF\obj\Debug\TankWF.Properties.Resources.resources
+C:\Users\monik\source\repos\TankWF\TankWF\obj\Debug\TankWF.csproj.GenerateResource.cache
+C:\Users\monik\source\repos\TankWF\TankWF\obj\Debug\TankWF.csproj.CoreCompileInputs.cache
+C:\Users\monik\source\repos\TankWF\TankWF\obj\Debug\TankWF.exe
+C:\Users\monik\source\repos\TankWF\TankWF\obj\Debug\TankWF.pdb
